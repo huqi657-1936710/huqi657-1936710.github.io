@@ -1,0 +1,44 @@
+#Header{
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+
+#LeftNav{
+    text-align: center;
+    float: left;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    padding-bottom: 8px;
+}
+
+#Content{
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+
+    padding: 15px;
+}
+
+#Footer{
+    text-align: center;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
